@@ -4,7 +4,7 @@
 import tkinter as tk
 
 window = tk.Tk()
-window.title = 'Entry'
+window.title('Entry')
 window.geometry('200x200')
 
 
